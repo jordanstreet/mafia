@@ -1,0 +1,10 @@
+# Build directories
+build/
+bin/
+Testing/
+
+# Editor directories
+.vscode/
+
+# Git patch files
+*.patch

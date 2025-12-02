@@ -1,0 +1,6 @@
+#pragma once
+
+// Project information
+constexpr const char* PROJECT_NAME = "@PROJECT_NAME@";
+constexpr const char* PROJECT_VERSION = "@PROJECT_VERSION@";
+constexpr const char* PROJECT_DESCRIPTION = "@PROJECT_DESCRIPTION@";

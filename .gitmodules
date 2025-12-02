@@ -1,0 +1,15 @@
+[submodule "external/Crow"]
+	path = external/Crow
+	url = https://github.com/CrowCpp/Crow.git
+[submodule "external/Catch2"]
+	path = external/Catch2
+	url = https://github.com/catchorg/Catch2.git
+[submodule "external/asio"]
+	path = external/asio
+	url = https://github.com/chriskohlhoff/asio.git
+[submodule "external/cpp-httplib"]
+	path = external/cpp-httplib
+	url = https://github.com/yhirose/cpp-httplib.git
+[submodule "external/json"]
+	path = external/json
+	url = https://github.com/nlohmann/json.git
